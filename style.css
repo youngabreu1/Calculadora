@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+    overflow: hidden;
+}
+.calculadora{
+width: 100vw;
+max-width: 25rem;
+height: 646px;
+flex-shrink: 0;
+border-radius: 45px;
+border: 1px solid rgba(0, 0, 0, 0.25);
+background: #313036;
+box-shadow: 7px 16px 42px 4px rgba(0, 0, 0, 0.75);
+}
+.container{
+
+} 
+.buttons{
+    background-color: aqua;
+    
+    border-radius: 100px;
+}
