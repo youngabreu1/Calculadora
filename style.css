@@ -12,11 +12,9 @@ border: 1px solid rgba(0, 0, 0, 0.25);
 background: #313036;
 box-shadow: 7px 16px 42px 4px rgba(0, 0, 0, 0.75);
 }
-.container{
-
-} 
-.buttons{
-    background-color: aqua;
-    
-    border-radius: 100px;
+.display-container{
+display: flex;
+padding: 189px 0px;
+justify-content: center;
+align-items: center;
 }
